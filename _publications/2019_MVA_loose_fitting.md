@@ -2,7 +2,7 @@
 title: "Automatic human pose annotation for loose-fitting clothes"
 collection: publications
 permalink: /publication/2019_MVA_loose_fitting
-excerpt: 
+excerpt: "This paper proposes a framework for automatically annotating the keypoints of a human body in images for learning 2D pose estimation models."
 date: 2019-05-27
 venue: '2019 16th International Conference on Machine Vision Applications (MVA)'
 citation: 'Takuya Matsumoto, Kodai Shimosato, Takahiro Maeda, Tatsuya Murakami, Koji Murakoso, Kazuhiko Mino, Norimichi Ukita. MVA 2019.'
