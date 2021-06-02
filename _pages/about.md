@@ -41,10 +41,9 @@ Recent Publications
 
 Honor & Award
 ======
+The first place, &euro;12500 granted <br>
+Real Robot Challenge, 2020, the Max Planck Institute for Intelligent Systems
+
 Best Poster Award <br>
 Machine Vision and Applications Organization <br>
 Tokyo, Japan, 2019
-
-The first place, &euro;12500 granted <br>
-Real Robot Challenge, 2020, the Max Planck Institute for Intelligent Systems
-  
