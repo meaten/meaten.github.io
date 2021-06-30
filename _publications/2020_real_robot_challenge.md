@@ -5,7 +5,7 @@ permalink: /publication/2020_real_robot_challenge
 excerpt: 'This paper is a technical report for Real Robot Challenge Competition 2020, the Max Planck Institute for Intelligent Systems.'
 date: 2021-01-01
 venue: 'arXiv preprint'
-citation: 'Takuma Yoneda, Charles Schaff, Takahiro Maeda, Matthew Walter.'
+citation: 'Yoneda, T., Schaff, C., Maeda, T., & Walter, M. (2021). Grasp and motion planning for dexterous manipulation for the real robot challenge. arXiv preprint arXiv:2101.02842.'
 ---
 This report describes our winning submission to the Real Robot Challenge. The Real Robot Challenge
 is a three-phase dexterous manipulation competition that involves manipulating various rectangular

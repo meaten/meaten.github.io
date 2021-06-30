@@ -5,7 +5,7 @@ permalink: /publication/2020_IEICE_loose_fitting
 excerpt: "This paper proposes a framework for automatically annotating the keypoints of a human body in images for learning 2D pose estimation models."
 date: 2020-06-01
 venue: '2020 IEICE Transactions on Information and Systems 103 (6), 1257-1264'
-citation: 'Takuya Matsumoto, Kodai Shimosato, Takahiro Maeda, Tatsuya Murakami, Koji Murakoso, Kazuhiko Mino, Norimichi Ukita. IEICE Transactions on Information and Systems 2020.'
+citation: 'Matsumoto, T., Shimosato, K., Maeda, T., Murakami, T., Murakoso, K., Mino, K., & Ukita, N. (2020). Human Pose Annotation Using a Motion Capture System for Loose-Fitting Clothes. IEICE Transactions on Information and Systems, 103(6), 1257-1264.'
 ---
 This paper proposes a framework for automatically annotating the keypoints of a human body in images for learning 2D pose
 estimation models. Ground-truth annotations for supervised learning are
