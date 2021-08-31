@@ -5,7 +5,7 @@ permalink: /publication/2021_MVA_data_augmentation
 excerpt: "We proposed two data augmentation approaches using VAE and IK, and a motion refinement using Imitation Learning for Motion Prediciton" 
 date: 2021-06-01
 venue: '2021 17th International Conference on Machine Vision Applications (MVA)'
-citation: 'Takahiro Maeda, Norimichi Ukita.'
+citation: 'T. Maeda and N. Ukita, "Data Augmentation for Human Motion Prediction," 2021 17th International Conference on Machine Vision and Applications (MVA), 2021, pp. 1-5, doi: 10.23919/MVA51890.2021.9511368.'
 ---
 Human motion prediction is seldom deployed to real-world tasks due to difficulty in collecting a huge amount of motion data.
 We propose two motion data augmentation approaches using Variational AutoEncoder (VAE) and Inverse Kinematics (IK).
