@@ -12,7 +12,7 @@ Takahiro Maeda received B.Eng. from Toyota Technological Institute (TTI), Japan,
 Then, he also received M.Eng. from TTI, 
 under the supervision of [Dr.Norimichi Ukita](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/index-j.html)
 in [Intelligent Information Media Laboratory](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index-j.html).
-He is currently working as a research assistant in the same lab.
+He is currently a doctoral student in the same lab.
 
 {% include base_path %}
 

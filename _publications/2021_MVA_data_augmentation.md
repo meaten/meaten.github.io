@@ -22,4 +22,4 @@ Results
   <p>Your browser does not support the video element.</p>
 </video>
 
-[Download paper here](Currently not available)
+[Download paper here](http://www.mva-org.jp/Proceedings/2021/papers/O2-2-2.pdf)
