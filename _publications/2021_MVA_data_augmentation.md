@@ -16,6 +16,8 @@ As a result, our method outperforms previous motion augmentation methods.
 
 ![Method Overview](/images/MVA_2021_overview.png)
 
+[Youtube link for presentation](https://www.youtube.com/watch?v=9H0DqRYYwCY)
+
 Results
 <video muted autoplay width="480" height="320" loop>
   <source src="/images/mva2021.mp4" type="video/mp4">
