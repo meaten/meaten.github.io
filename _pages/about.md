@@ -26,6 +26,7 @@ Work experience
 * Research Assistant
   * Toyota Technological Institute, Nagoya, Japan
   * Supervisor: Norimichi Ukita
+* Certified Care Worker in Japan (licensed 2022 April)
   
 Skills
 ======
