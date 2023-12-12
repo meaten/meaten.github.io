@@ -17,6 +17,6 @@ Results
   <p>Your browser does not support the video element.</p>
 </video>
 
-[Download paper here](https://arxiv.org/abs/2203.09116)
+[Paper](https://arxiv.org/abs/2203.09116)
 
-[Code is available here](https://github.com/meaten/MotionAug)
+[Code is available here](https://github.com/meaten/MotionAug-CVPR2022)
