@@ -34,7 +34,7 @@ Skills
   * Physics Simulator: Bullet Physics
 * Certified Care Worker in Japan (licensed 2022 April)
 
-Recent Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
