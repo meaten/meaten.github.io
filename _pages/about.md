@@ -26,6 +26,13 @@ Work experience
 * Research Assistant
   * Toyota Technological Institute, Nagoya, Japan
   * Supervisor: Norimichi Ukita
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
   
 Skills
 ======
@@ -33,12 +40,6 @@ Skills
   * Deep Learning Framework: tensorflow/Pytorch
   * Physics Simulator: Bullet Physics
 * Certified Care Worker in Japan (licensed 2022 April)
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Honor & Award
 ======
