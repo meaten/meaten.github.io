@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter "meaten121"
 facebook:
-  username               :
+  username               : &facebook "takahiro.maeda.946954"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=oj90RrQAAAAJ"
-  email            : "tmaeda@toyota-ti.ac.jp"
+  email            : "sd21601@toyota-ti.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
