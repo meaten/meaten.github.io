@@ -10,9 +10,9 @@ redirect_from:
 
 Takahiro Maeda received B.Eng. from Toyota Technological Institute (TTI), Japan, in 2019.
 Then, he also received M.Eng. from TTI, 
-under the supervision of [Dr.Norimichi Ukita](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/index-j.html)
-in [Intelligent Information Media Laboratory](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index-j.html).
-He is currently a doctoral student in the same lab.
+under the supervision of [Dr.Norimichi Ukita](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/index.html)
+at [Intelligent Information Media Laboratory](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/index.html), in 2021.
+He is currently a PhD candidate at the same lab from 2021.
 
 {% include base_path %}
 
@@ -26,6 +26,8 @@ Work experience
 * Research Assistant
   * Toyota Technological Institute, Nagoya, Japan
   * Supervisor: Norimichi Ukita
+* Intern
+  * Frontier Research Center, Toyota Motor Corp. (May - August, 2023)
 
 Publications
 ======
