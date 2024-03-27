@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Takahiro Maeda"
 title_separator          : "-"
 name                     : &name "Takahiro Maeda"
-description              : &description "Machine Learning Researcher"
+description              : &description "Researcher - Computer Vision, Robotics"
 url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  G-K4L9WSQZMH
 
 
 # Site Author
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "takahiro.maeda.946954"
   foursquare       :
   github           : "meaten"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "takahiro-maeda-3a3537183"
+  orcid            : https://orcid.org/0000-0002-9911-6235
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
