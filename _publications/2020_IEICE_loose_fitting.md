@@ -1,7 +1,7 @@
 ---
 title: "Human Pose Annotation Using a Motion Capture System for Loose-Fitting Clothes"
 collection: publications
-permalink: /publication/2020_IEICE_loose_fitting
+permalink: /publications/2020_IEICE_loose_fitting
 excerpt: "This paper proposes a framework for automatically annotating the keypoints of a human body in images for learning 2D pose estimation models."
 date: 2020-06-01
 venue: '2020 IEICE Transactions on Information and Systems 103 (6), 1257-1264'

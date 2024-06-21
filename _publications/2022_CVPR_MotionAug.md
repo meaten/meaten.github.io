@@ -1,7 +1,7 @@
 ---
 title: "MotionAug: Augmentation with Physical Correction for Human Motion Prediction"
 collection: publications
-permalink: /publication/2022_CVPR_MotionAug
+permalink: /publications/2022_CVPR_MotionAug
 excerpt: "This paper presents a motion data augmentation scheme incorporating motion synthesis encouraging diversity and motion correction imposing physical plausibility." 
 date: 2022-06-19
 venue: 'In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition'

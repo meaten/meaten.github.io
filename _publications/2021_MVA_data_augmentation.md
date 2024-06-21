@@ -1,7 +1,7 @@
 ---
 title: "Data Augmentation for Human Motion Prediction"
 collection: publications
-permalink: /publication/2021_MVA_data_augmentation
+permalink: /publications/2021_MVA_data_augmentation
 excerpt: "We proposed two data augmentation approaches using VAE and IK, and a motion refinement using Imitation Learning for Motion Prediciton" 
 date: 2021-06-01
 venue: '2021 17th International Conference on Machine Vision Applications (MVA)'

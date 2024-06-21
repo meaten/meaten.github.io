@@ -1,7 +1,7 @@
 ---
 title: "Grasp and Motion Planning for Dexterous Manipulation for the Real Robot Challenge"
 collection: publications
-permalink: /publication/2020_real_robot_challenge
+permalink: /publications/2020_real_robot_challenge
 excerpt: 'This paper is a technical report for Real Robot Challenge Competition 2020, the Max Planck Institute for Intelligent Systems.'
 date: 2021-01-01
 venue: 'arXiv preprint'

@@ -1,7 +1,7 @@
 ---
 title: "NTIRE 2021 Challenge on Burst Super-Resolution: Methods and Results"
 collection: publications
-permalink: /publication/2021_NTIRE_burstSR_Challenge
+permalink: /publications/2021_NTIRE_burstSR_Challenge
 excerpt: "The report of the challenge. 4th Place." 
 date: 2021-07-01
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021'
