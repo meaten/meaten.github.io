@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Grasp and Motion Planning for Dexterous Manipulation for the Real Robot Challenge"
+date:   2021-01-08 22:21:59 +00:00
+image: /images/2021RRC.png
+categories: challenge
+author: "Takuma Yoneda"
+authors: "Takuma Yoneda, Charles Schaff, <strong>Takahiro Maeda</strong>, and Matthew Walter"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2101.02842
+paper: https://proceedings.mlr.press/v176/bauer22a.html
+code: https://github.com/ripl/real-robot-challenge
+---
+
+I participated the 2020 [Real Robot Challenge](https://real-robot-challenge.com) with people at TTI-Chicago.
+We won the first place.
