@@ -9,5 +9,7 @@ authors: "<strong>Takahiro Maeda</strong> and Norimichi Ukita"
 venue: "CVPR"
 arxiv: https://arxiv.org/abs/2203.09116
 code: https://github.com/meaten/MotionAug-CVPR2022
-video: https://www.youtube.com/watch?v=9H0DqRYYwCY
+video: https://www.youtube.com/watch?v=ahk7uNKKN6Y
 ---
+
+IEEE Nagoya Section Conference Presentation Award 2023
