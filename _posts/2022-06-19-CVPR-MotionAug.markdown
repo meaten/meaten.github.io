@@ -9,5 +9,5 @@ authors: "<strong>Takahiro Maeda</strong> and Norimichi Ukita"
 venue: "CVPR"
 arxiv: https://arxiv.org/abs/2203.09116
 code: https://github.com/meaten/MotionAug-CVPR2022
-video: /videos/MotionAug_cvpr2022_resize.mp4
+video: https://www.youtube.com/watch?v=9H0DqRYYwCY
 ---
