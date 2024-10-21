@@ -6,7 +6,7 @@ image: /images/2024RA-L-MAM.png
 categories: research
 author: "Takahiro Maeda"
 authors: "<strong>Takahiro Maeda</strong>, Keisuke Takeshita, Norimichi Ukita, and Kazuhito Tanaka"
-venue: "Under-review"
+venue: "IEEE Robotics and Automation Letters (RA-L)"
 arxiv: https://arxiv.org/abs/2310.08116
 code: https://github.com/meaten/HMRinCloseProximity
 video: https://www.youtube.com/watch?v=PoVwErFVwrM
