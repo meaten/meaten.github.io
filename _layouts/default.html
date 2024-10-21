@@ -148,6 +148,9 @@
               {{ post.date | date: "%Y-%m-%d" }}
 
               <br>
+              {% if post.publisher %}
+              <a href="{{post.publisher}}">publisher</a> /
+              {% endif %}
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
               {% endif %}
