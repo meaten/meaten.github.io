@@ -8,7 +8,9 @@ author: "Takahiro Maeda"
 authors: "<strong>Takahiro Maeda</strong>, Jinkun Cao, Norimichi Ukita, and Kris Kitani"
 venue: "Transactions on Machine Learning Research (TMLR)"
 arxiv: https://arxiv.org/abs/2505.13140
+paper: https://openreview.net/forum?id=icq5659pQt
 code: https://github.com/meaten/CacheFlow
+website: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/selection/TMLR2026-cf.html
 ---
 
 Work done during the research internship at Robotics Institute, Carnegie Mellon University in 2024.

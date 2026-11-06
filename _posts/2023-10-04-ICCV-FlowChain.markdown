@@ -9,4 +9,6 @@ authors: "<strong>Takahiro Maeda</strong> and Norimichi Ukita"
 venue: "ICCV"
 arxiv: https://arxiv.org/abs/2308.08824
 code: https://github.com/meaten/FlowChain-ICCV2023
+poster: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/selection/ICCV2023-FlowChain-poster.pdf
+website: https://www.toyota-ti.ac.jp/Lab/Denshi/iim/ukita/selection/ICCV2023-FlowChain-new.html
 ---

@@ -12,5 +12,5 @@ paper: https://proceedings.mlr.press/v176/bauer22a.html
 code: https://github.com/ripl/real-robot-challenge
 ---
 
-I participated the 2020 [Real Robot Challenge](https://real-robot-challenge.com) with people at TTI-Chicago.
-We won the first place.
+I participated in the 2020 [Real Robot Challenge](https://real-robot-challenge.com) with M. Walter's group at TTI-Chicago.
+We won 1st place in Phases 2 and 3.
